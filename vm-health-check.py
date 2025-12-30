@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 VM Health Check Script
 Monitors system health metrics and generates alerts
